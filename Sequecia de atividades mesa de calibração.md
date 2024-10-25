@@ -2,12 +2,11 @@
 
 1. **Dia 1 - Interface com Kivy (Layout e Estruturação)**
     
-    - Criar a interface gráfica principal com Kivy.
-    - Tela de login (Usuário/Admin).
-    - Botões de Start, Stop e configurações.
-    - Ações condicionais baseadas no tipo de usuário.
+    - Criar a interface gráfica principal com Kivy. Em andamento
+    - Tela de login (Usuário/Admin). Em andamento
+    - Botões de Start, Stop e configurações. Em andamento
+    - Ações condicionais baseadas no tipo de usuário. Em andamento
 2. **Dia 2 - Banco de Dados e Cadastro**
-    
     - Implementar banco de dados (SQLite, MySQL, ou outro).
     - Tabelas para armazenar usuários, admins, logs e configurações.
     - Criar funcionalidades de cadastro de Usuário/Admin.
